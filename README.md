@@ -1,1 +1,1 @@
-# titanic
+This is Titanc from Kaggle!
